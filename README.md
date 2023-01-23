@@ -9,7 +9,5 @@ Olá, Bem vindo ao meu projeto de portfólio.
 * CSS
 * Flex-box
 
-## Feito por:
-### Renan Lima
+## Feito por: Renan Lima
 
-### Linkedin: https://www.linkedin.com/in/renan-lima-dev
