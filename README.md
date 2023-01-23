@@ -9,5 +9,7 @@ Olá, Bem vindo ao meu projeto de portfólio.
 * CSS
 * Flex-box
 
-## Feito por: Renan Lima
+## Feito por:
+### Joana Santos
 
+### Linkedin: https://www.linkedin.com/school/aluracursos/
